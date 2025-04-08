@@ -19,7 +19,7 @@ This project consists of 9 Flutter labs, starting from basic UI building to adva
 ![Quizzler](https://i.pinimg.com/736x/85/02/b1/8502b1de8dff29510bcf01b3477023d5.jpg)
 
 ## Lab 7: Boss Level Challenge 2 - Destini
-![Destini](blob:https://www.pinterest.com/9c8018f0-f80b-4c35-a8f7-eeb1f7bf156f)
+![Destini](https://i.pinimg.com/736x/7a/aa/32/7aaa32eeb8db04e5729678b1b9c35d38.jpg)
 
 ## Lab 8: BMI Calculator - Building Flutter UI for Intermediates
 ![BMI Calculator](https://i.pinimg.com/736x/22/31/3d/22313da7966099b6ce5ca3bc48c1902b.jpg)
