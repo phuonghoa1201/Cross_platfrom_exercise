@@ -6,6 +6,7 @@ This project consists of 9 Flutter labs, starting from basic UI building to adva
 
 ## [Lab 1: I Am Rich - How to Create Flutter Apps From Scratch](lab1_amrich/)
 [![I Am Rich](https://i.pinimg.com/736x/c3/33/4c/c3334c6833764ce08f660964ccaacd5a.jpg)](lab1_amrich/)
+
 [Video_demo_Iamrich](https://drive.google.com/file/d/10u4XrDKjbJHnf-U91EsEJx5ffjg8K12w/view?usp=sharing)
 
 ## [Lab 2: MiCard - How to Build Beautiful UIs with Flutter Widgets](lab2_micards/)
