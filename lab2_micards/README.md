@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## [Lab 2: MiCard - How to Build Beautiful UIs with Flutter Widgets](lab2_micards/)
+[![MiCard](https://i.pinimg.com/736x/65/f9/cc/65f9cccf5cc67baa9ac83447ca836f1c.jpg)](lab2_micards/)
+
+[Video_demo_Micard](https://drive.google.com/file/d/1ABkz5NkrOzASp9H6vfYmd7RIm-P76CXd/view?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
