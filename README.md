@@ -42,7 +42,7 @@ This project consists of 9 Flutter labs, starting from basic UI building to adva
 ## [Lab 8: BMI Calculator - Building Flutter UI for Intermediates](lab8_bmi_calculator/)
 [![BMI Calculator](https://i.pinimg.com/736x/22/31/3d/22313da7966099b6ce5ca3bc48c1902b.jpg)](lab8_bmi_calculator/)
 
-[Video_demo_bim](https://drive.google.com/file/d/1niIgGReMT_mFJQH9sVWrSCiua9SMuV1L/view?usp=sharing)
+[Video_demo_bmi](https://drive.google.com/file/d/1niIgGReMT_mFJQH9sVWrSCiua9SMuV1L/view?usp=sharing)
 
 ## [Lab 9: Clima - Powering Your Flutter App with Live Web Data](lab9_clima/)
 [![Clima](https://i.pinimg.com/736x/ed/f2/7a/edf27ae32f920b57ff7b9605d0d2a438.jpg)](lab9_clima/)
